@@ -1,15 +1,86 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital@1&display=swap');
 
 body{ 
-    font-family:'Nunito', sans-serif;
-    background-color: black;
+    font-family: 'Bodoni Moda', serif;
+    background-color:#152232;
     font-size: medium;
     text-align: center;
-    color: white;
+    color: white ;
 } 
 
+.image {
+    height: 200px;
+    width: 400px;
+}
+
+.navbar {
+    justify-content: space-evenly;
+    background-color:rgb(255, 238, 238);
+    height: 100px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ a {
+     text-decoration: none;
+     color: black;
+     font-size: small;
+     padding: 50px;
+ } 
+
+ .image {
+    padding: 0 400px;
+    height: fit-content;
+ }
+
+ .Me {
+    padding: 0 400px;
+    text-align: center;
+ }
+ 
+ .middle {
+    padding: 0 500px;
+     text-align: center;
+ }
 
 
-    
+ .CB {
+    padding: 0 500px;
+     text-align: center;
+ }
 
-    
+ .PB {
+    padding: 0 500px;
+    text-align: center;
+ }
+
+ .VB {
+    padding: 0 500px;
+    text-align: center;
+ }
+
+ .EB {
+    padding: 0 500px;
+     text-align: center;
+ }
+
+ .SB {
+    padding: 0 500px;
+    text-align: center;
+ }
+
+ h5 a {
+     font-size: 20px;
+ }
+
+ .main {
+     margin-top: 100px;
+ }
+
+
+ 
